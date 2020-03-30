@@ -24,11 +24,11 @@ Set of examples for quick implementation (android, vuejs, react etc.) https://gi
 #### Data connection
 
 * [udf-binance-node](https://github.com/bergusman/tradingview-udf-binance-node) - receiving data through the server.
-* [jsapi-binance](https://github.com/bergusman/tradingview-jsapi-binance) - connection of own data from the client, locally.
+* [jsapi-binance](https://github.com/bergusman/tradingview-jsapi-binance) - connection of own data from the client, locally (data is not updated). 
 
 #### Examples (work out of the box)
 
-* [VueJS + JSAPI](https://github.com/marcius-capital/tradingview-charting-library-vuejs-jsapi-example) - combine [JSAPI tutorial](https://github.com/tradingview/charting-library-tutorial) and [VueJS](https://github.com/tradingview/charting-library-examples/tree/master/vuejs)
+* [Vuejs + JSAPI](https://github.com/marcius-capital/tradingview-charting-library-vuejs-jsapi-example) - combine [JSAPI tutorial](https://github.com/tradingview/charting-library-tutorial) and [Vuejs](https://github.com/tradingview/charting-library-examples/tree/master/vuejs). Fully ready to use example (rest + websockets).
 
 ### Lightweight Charts
 
