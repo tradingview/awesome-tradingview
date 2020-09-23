@@ -16,7 +16,6 @@
 
 Set of examples for quick implementation (android, vuejs, react etc.) https://github.com/tradingview/charting-library-examples
 
-
 ## Community
 
 ### Charting library
@@ -34,3 +33,8 @@ Set of examples for quick implementation (android, vuejs, react etc.) https://gi
 ### Lightweight Charts
 
 * Add yours 😉
+
+## Articles
+
+* **[Connecting and settings TradingView with JS API and UDF adapter - Medium.com](https://medium.com/marcius-studio/connecting-and-settings-tradingview-with-js-api-and-udf-adapter-b790297a31fa)**
+* **[Financial charts for your application - Medium.com](https://medium.com/marcius-studio/financial-charts-for-your-application-cfcceb147786)**
