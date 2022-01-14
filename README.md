@@ -4,7 +4,7 @@
 
 *Feel free to add your work!*
 
-[TradingView Offical](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/) | [Discord community](https://discord.gg/E6UthXZ)
+[TradingView Offical](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/) | [Discord community](https://discord.gg/UC7cGkvn4U)
 
 ## Official Links
 
