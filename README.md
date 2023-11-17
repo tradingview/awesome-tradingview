@@ -56,6 +56,10 @@ An entire of library of unparalleled usability, at just 45 KB. The Lightweight C
 - [Visible Price Range Util Plugin](https://github.com/slicedsilver/lwc-plugin-visible-price-range-util)
 - Want your plugin feature listed here? 😄 Let us know, or open a PR.
 
+#### Wrappers
+
+- [lightweight-charts-python](https://github.com/louisnw01/lightweight-charts-python) - Python framework for Lightweight Charts.
+
 ## Articles
 
 - **[Connecting and settings TradingView with JS API and UDF adapter - Medium.com](https://medium.com/marcius-studio/connecting-and-settings-tradingview-with-js-api-and-udf-adapter-b790297a31fa)**
