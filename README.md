@@ -59,6 +59,7 @@ An entire of library of unparalleled usability, at just 45 KB. The Lightweight C
 #### Wrappers
 
 - [lightweight-charts-react-wrapper](https://github.com/trash-and-fire/lightweight-charts-react-wrapper)
+- [lightweight-charts-python](https://github.com/louisnw01/lightweight-charts-python)
 
 ## Articles
 
