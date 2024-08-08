@@ -33,7 +33,15 @@ An entire of library of unparalleled usability, at just 45 KB. The Lightweight C
 - [Documentation](https://tradingview.github.io/lightweight-charts/)
 - [GitHub Repo](https://github.com/tradingview/lightweight-charts)
 
+#### Plugins
+
+- [create-lwc-plugin NPM package](https://www.npmjs.com/package/create-lwc-plugin)
+- [Official Example Plugins](https://github.com/tradingview/lightweight-charts/tree/master/plugin-examples), and the [Demos](https://tradingview.github.io/lightweight-charts/plugin-examples/)
+
 ## Community
+
+> [!WARNING]
+The following links showcase innovative projects created by our community members. Please note that these are not official TradingView projects. We do not manage, endorse, or guarantee the quality or safety of these initiatives. These links are provided for informational purposes only, and we encourage users to explore them at their own discretion:
 
 ### Charting library
 
@@ -46,8 +54,6 @@ An entire of library of unparalleled usability, at just 45 KB. The Lightweight C
 
 #### Plugins
 
-- [create-lwc-plugin NPM package](https://www.npmjs.com/package/create-lwc-plugin)
-- [Official Example Plugins](https://github.com/tradingview/lightweight-charts/tree/master/plugin-examples), and the [Demos](https://tradingview.github.io/lightweight-charts/plugin-examples/)
 - [Visible Price Range Util Plugin](https://github.com/slicedsilver/lwc-plugin-visible-price-range-util)
 - Want your plugin feature listed here? 😄 Let us know, or open a PR.
 
