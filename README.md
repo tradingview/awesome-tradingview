@@ -37,11 +37,6 @@ An entire of library of unparalleled usability, at just 45 KB. The Lightweight C
 
 ### Charting library
 
-#### Examples (work out of the box)
-
-- [TradingView jsapi Binance](https://github.com/marcius-studio/tradingview-jsapi-binance) - combine [jsapi tutorial](https://github.com/tradingview/charting-library-tutorial) and [Vue.js](https://github.com/tradingview/charting-library-examples/tree/master/vuejs) (REST + WebSocket).
-- [TradingView jsapi Forex](https://github.com/marcius-studio/tradingview-jsapi-forex) - forex provider, updating data every minute, [low-level save/load](https://github.com/tradingview/charting_library/wiki/Saving-and-Loading-Charts) API with backend.
-
 #### Data connection
 
 - [udf-binance-node](https://github.com/bergusman/tradingview-udf-binance-node) - receiving data through the server.
