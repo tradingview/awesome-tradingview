@@ -43,6 +43,10 @@ An entire of library of unparalleled usability, at just 45 KB. The Lightweight C
 > [!WARNING]
 The following links showcase innovative projects created by our community members. Please note that these are not official TradingView projects. We do not manage, endorse, or guarantee the quality or safety of these initiatives. These links are provided for informational purposes only, and we encourage users to explore them at their own discretion:
 
+### PineScript
+
+- [awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript)
+
 ### Charting library
 
 #### Data connection
