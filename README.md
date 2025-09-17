@@ -1,6 +1,6 @@
 # Awesome TradingView
 
-🎉 A curated list of awesome things related to TradingView (Widgets, Advanced Charts library, Lightweight Charts™, etc)
+🎉 A curated list of awesome things related to TradingView (Widgets, Advanced Charts library, Lightweight Charts™, Pine Script®, etc)
 
 *Feel free to add your work!*
 
@@ -15,6 +15,7 @@ Compare the various TradingView solutions available to developers: [Compare libr
 Grab powerful charts and add real-time financial quotes onto your site as quickly as it takes you to pour a morning coffee. Just copy and paste our simple iFrame codes and away you go.
 
 - [Product Page](https://www.tradingview.com/widget/)
+- [Documentation](https://www.tradingview.com/widget-docs/)
 
 ### Advanced Charts Library
 
@@ -38,12 +39,20 @@ An entire of library of unparalleled usability, at just 45 KB. The Lightweight C
 - [create-lwc-plugin NPM package](https://www.npmjs.com/package/create-lwc-plugin)
 - [Official Example Plugins](https://github.com/tradingview/lightweight-charts/tree/master/plugin-examples), and the [Demos](https://tradingview.github.io/lightweight-charts/plugin-examples/)
 
+### Pine Script®
+
+From coding to chart analysis, faster than ever before — we crafted our programming language to give you the power to create custom tools. Pine Script® is elegantly minimalist, pre-integrated with data, and breaking your analysis limits.
+
+- [Product Page](https://www.tradingview.com/features/#pine-script)
+- [Documentation](https://www.tradingview.com/pine-script-docs/)
+
+
 ## Community
 
 > [!WARNING]
 The following links showcase innovative projects created by our community members. Please note that these are not official TradingView projects. We do not manage, endorse, or guarantee the quality or safety of these initiatives. These links are provided for informational purposes only, and we encourage users to explore them at their own discretion:
 
-### PineScript
+### Pine Script®
 
 - [awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript)
 
@@ -54,7 +63,7 @@ The following links showcase innovative projects created by our community member
 - [udf-binance-node](https://github.com/bergusman/tradingview-udf-binance-node) - receiving data through the server.
 - [jsapi-binance](https://github.com/bergusman/tradingview-jsapi-binance) - connection of own data from the client, locally (data is not updated).
 
-### Lightweight Charts
+### Lightweight Charts™
 
 #### Plugins
 
