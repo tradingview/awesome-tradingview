@@ -55,6 +55,7 @@ The following links showcase innovative projects created by our community member
 #### Plugins
 
 - [Visible Price Range Util Plugin](https://github.com/slicedsilver/lwc-plugin-visible-price-range-util)
+- [Min Max Price Markers Plugin](https://github.com/dangkhoa99/lwc-plugin-min-max-price-markers)
 - Want your plugin feature listed here? 😄 Let us know, or open a PR.
 
 #### Wrappers
