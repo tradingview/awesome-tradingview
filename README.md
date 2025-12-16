@@ -55,7 +55,7 @@ The following links showcase innovative projects created by our community member
 ### Pine Script®
 
 - [awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript)
-- [oakscriptjs](https://github.com/deepentropy/oakscriptJS) - PineScript v6 compatible technical analysis library for JavaScript/TypeScript
+- [oakscriptjs](https://github.com/deepentropy/oakscriptJS) - PineScript® v6 compatible technical analysis library for JavaScript/TypeScript.
 
 ### Charting library
 
@@ -68,7 +68,7 @@ The following links showcase innovative projects created by our community member
 
 #### Indicators
 
-- [lightweight-charts-indicators](https://github.com/deepentropy/lightweight-charts-indicators) - 70+ technical analysis indicators for Lightweight Charts v5, PineScript v6 compatible
+- [lightweight-charts-indicators](https://github.com/deepentropy/lightweight-charts-indicators) - 70+ technical analysis indicators for Lightweight Charts v5.
 
 #### Plugins
 
