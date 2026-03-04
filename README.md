@@ -79,3 +79,7 @@ The following links showcase innovative projects created by our community member
 
 - [lightweight-charts-react-wrapper](https://github.com/trash-and-fire/lightweight-charts-react-wrapper)
 - [lightweight-charts-python](https://github.com/louisnw01/lightweight-charts-python)
+
+### Embeddable Widgets
+
+- [igotfomo-ticker-widget](https://igotfomo.com/widgets/) - Free embeddable live stock ticker showing S&P 500, NASDAQ, DOW, Bitcoin, and Ethereum. Shadow DOM isolated, dual themes, one-line embed. [Demo](https://igotfomo.com/widgets/) | [Source](https://github.com/hayaiti/awesome-trading-tools)
