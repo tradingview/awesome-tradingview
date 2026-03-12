@@ -68,7 +68,7 @@ The following links showcase innovative projects created by our community member
 
 #### Indicators
 
-- [lightweight-charts-indicators](https://github.com/deepentropy/lightweight-charts-indicators) - 70+ technical analysis indicators for Lightweight Charts v5.
+- [lightweight-charts-indicators](https://github.com/deepentropy/lightweight-charts-indicators) - 440+ technical analysis indicators (82 standard, 315 community, 44 candlestick patterns) for Lightweight Charts v5.
 
 #### Plugins
 
