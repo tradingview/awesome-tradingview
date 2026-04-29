@@ -79,3 +79,7 @@ The following links showcase innovative projects created by our community member
 
 - [lightweight-charts-react-wrapper](https://github.com/trash-and-fire/lightweight-charts-react-wrapper)
 - [lightweight-charts-python](https://github.com/louisnw01/lightweight-charts-python)
+
+### Trading Bots
+
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot with TradingView webhook integration, 3-model ML ensemble, and 70.9% walk-forward accuracy across 12 exchanges. Open source with cloud platform.
