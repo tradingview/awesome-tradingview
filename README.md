@@ -79,3 +79,5 @@ The following links showcase innovative projects created by our community member
 
 - [lightweight-charts-react-wrapper](https://github.com/trash-and-fire/lightweight-charts-react-wrapper)
 - [lightweight-charts-python](https://github.com/louisnw01/lightweight-charts-python)
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=dex-outreach) — AI-powered CLOB exchange with 10 autonomous market makers. Perpetual prediction markets, pre-launch TGE token predictions on Base L2. Real orderbook depth, on-chain settlement. [API](https://cymetica.com/api/docs) | [TGE Markets](https://cymetica.com/tge-launch?utm_source=github&utm_medium=pr&utm_campaign=dex-outreach)
