@@ -61,6 +61,7 @@ The following links showcase innovative projects created by our community member
 
 #### Data connection
 
+- [PyWry](https://github.com/deeleeramone/PyWry/blob/develop/pywry/examples/pywry_demo_udf_tvchart.py) - Python one-liner to connect any remote UDF server as a native application, Jupyter widget, or iFrame web server.
 - [udf-binance-node](https://github.com/bergusman/tradingview-udf-binance-node) - receiving data through the server.
 - [jsapi-binance](https://github.com/bergusman/tradingview-jsapi-binance) - connection of own data from the client, locally (data is not updated).
 
@@ -79,3 +80,4 @@ The following links showcase innovative projects created by our community member
 
 - [lightweight-charts-react-wrapper](https://github.com/trash-and-fire/lightweight-charts-react-wrapper)
 - [lightweight-charts-python](https://github.com/louisnw01/lightweight-charts-python)
+- [PyWry](https://github.com/deeleeramone/PyWry/) - Build native, web, and Jupyter applications with an advanced lightweight charts wrapper
