@@ -73,6 +73,7 @@ The following links showcase innovative projects created by our community member
 #### Plugins
 
 - [Visible Price Range Util Plugin](https://github.com/slicedsilver/lwc-plugin-visible-price-range-util)
+- [CandleKit](https://github.com/rohanbeingsocial/candlekit-charts) - All-in-one toolkit: drawing tools, technical indicators, deterministic replay engine, measurement ruler, and synced multi-pane. Framework-agnostic core + optional React bindings. MIT.
 - Want your plugin feature listed here? 😄 Let us know, or open a PR.
 
 #### Wrappers
