@@ -63,6 +63,7 @@ The following links showcase innovative projects created by our community member
 
 - [udf-binance-node](https://github.com/bergusman/tradingview-udf-binance-node) - receiving data through the server.
 - [jsapi-binance](https://github.com/bergusman/tradingview-jsapi-binance) - connection of own data from the client, locally (data is not updated).
+- [Adanos Market Sentiment API](https://api.adanos.org/docs/) - External stock sentiment API for enriching TradingView-based dashboards with Reddit, X/Twitter, and Polymarket-derived market sentiment.
 
 ### Lightweight Charts™
 
