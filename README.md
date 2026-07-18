@@ -51,6 +51,9 @@ From coding to chart analysis, faster than ever before — we crafted our progra
 
 > [!WARNING]
 The following links showcase innovative projects created by our community members. Please note that these are not official TradingView projects. We do not manage, endorse, or guarantee the quality or safety of these initiatives. These links are provided for informational purposes only, and we encourage users to explore them at their own discretion:
+### Education
+
+- [Wyckoff Method Course](https://arapov.trade/en/freestudying/wyckoff-method) - Free 9-lesson course on volume analysis and the Wyckoff method, including a lesson on setting up a TradingView chart for volume reading.
 
 ### Pine Script®
 
@@ -79,3 +82,5 @@ The following links showcase innovative projects created by our community member
 
 - [lightweight-charts-react-wrapper](https://github.com/trash-and-fire/lightweight-charts-react-wrapper)
 - [python-lightweight-charts](https://github.com/gopalparashar421/lightweight-charts-python)
+
+
