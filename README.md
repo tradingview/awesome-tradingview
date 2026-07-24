@@ -55,6 +55,7 @@ The following links showcase innovative projects created by our community member
 ### Pine Script®
 
 - [awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript)
+- [FN2 Pine Scripts](https://github.com/fn2ai/pine-scripts) - Three open-source Pine Script® v6 indicators for earnings planning, component breadth, and premarket gaps.
 - [oakscriptjs](https://github.com/deepentropy/oakscriptJS) - PineScript® v6 compatible technical analysis library for JavaScript/TypeScript.
 
 ### Charting library
