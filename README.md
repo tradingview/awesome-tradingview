@@ -56,6 +56,7 @@ The following links showcase innovative projects created by our community member
 
 - [awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript)
 - [oakscriptjs](https://github.com/deepentropy/oakscriptJS) - PineScript® v6 compatible technical analysis library for JavaScript/TypeScript.
+- [codemyedge](https://codemyedge.com) - Turns a plain-English trading idea into Pine Script and runs it on a real chart so you catch repaint/lookahead bugs before going live.
 
 ### Charting library
 
