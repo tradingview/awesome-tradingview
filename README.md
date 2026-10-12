@@ -57,6 +57,10 @@ The following links showcase innovative projects created by our community member
 - [awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript)
 - [oakscriptjs](https://github.com/deepentropy/oakscriptJS) - PineScript® v6 compatible technical analysis library for JavaScript/TypeScript.
 
+### Alerts & webhooks
+
+- [tradingview-webhook-examples](https://github.com/hookwatch-ops/tradingview-webhook-examples) - Minimal TradingView webhook receivers (FastAPI, Express, AI-agent queue) with secret check, fast ACK and idempotency. MIT, maintained by HookWatch.
+
 ### Charting library
 
 #### Data connection
