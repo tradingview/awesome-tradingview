@@ -56,6 +56,7 @@ The following links showcase innovative projects created by our community member
 
 - [awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript)
 - [oakscriptjs](https://github.com/deepentropy/oakscriptJS) - PineScript® v6 compatible technical analysis library for JavaScript/TypeScript.
+- [trading-alert-automation](https://github.com/Nyria-LLC/trading-alert-automation) - Alert message examples, a Pine Script® v6 alert builder and a webhook sender for routing TradingView, Discord and Telegram alerts to broker orders.
 
 ### Charting library
 
