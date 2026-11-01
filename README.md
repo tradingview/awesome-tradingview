@@ -77,5 +77,6 @@ The following links showcase innovative projects created by our community member
 
 #### Wrappers
 
+- [lightweight-charts-react-components](https://github.com/ukorvl/lightweight-charts-react-components) - Declarative TypeScript React components for Lightweight Charts, including panes, series, markers, and primitives.
 - [lightweight-charts-react-wrapper](https://github.com/trash-and-fire/lightweight-charts-react-wrapper)
 - [python-lightweight-charts](https://github.com/gopalparashar421/lightweight-charts-python)
