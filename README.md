@@ -56,6 +56,7 @@ The following links showcase innovative projects created by our community member
 
 - [awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript)
 - [oakscriptjs](https://github.com/deepentropy/oakscriptJS) - PineScript® v6 compatible technical analysis library for JavaScript/TypeScript.
+- [OpenPineScript](https://github.com/be-thomas/OpenPineScript) - Open-source Pine Script® v1–v6 compiler and runtime for JavaScript/TypeScript, with strategy backtesting in Node.js and the browser.
 
 ### Charting library
 
