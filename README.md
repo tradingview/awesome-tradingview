@@ -56,6 +56,7 @@ The following links showcase innovative projects created by our community member
 
 - [awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript)
 - [oakscriptjs](https://github.com/deepentropy/oakscriptJS) - PineScript® v6 compatible technical analysis library for JavaScript/TypeScript.
+- [pine-script-v6-examples](https://github.com/walidkssa/pine-script-v6-examples) - 21 MIT-licensed Pine Script® v6 example scripts (plots, labels, tables, crossovers, pivots, arrays, methods, position sizing, libraries), each linked to a written explanation.
 
 ### Charting library
 
