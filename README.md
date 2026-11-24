@@ -56,6 +56,7 @@ The following links showcase innovative projects created by our community member
 
 - [awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript)
 - [oakscriptjs](https://github.com/deepentropy/oakscriptJS) - PineScript® v6 compatible technical analysis library for JavaScript/TypeScript.
+- - [CodeFlowOS](https://codeflowos.com/pine-script-to-mql5) - Converts Pine Script® strategies to MQL5 (MetaTrader 5) Expert Advisors, with an optional check of the generated code.
 
 ### Charting library
 
